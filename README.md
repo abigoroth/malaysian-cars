@@ -114,7 +114,7 @@ Return all models on selected maker
 Example usage
 
 ```js
-const cities = getModels("Proton");
+const models = getModels("Proton");
 ```
 
 Example results
