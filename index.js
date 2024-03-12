@@ -5,8 +5,6 @@ const allModels = data.models;
 const getModels = makerName => {
   let models = [];
   const makeEl = allMakes.find((x) => x.name === makerName);
-  console.log("@@@@")
-  console.log(makeEl);
   allModels.filter(modelFilter => {
     if (modelFilter.parent_id === makeEl.id) {
       const modelList = modelFilter.values;
