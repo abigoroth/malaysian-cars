@@ -1,10 +1,6 @@
 # Malaysia Postcodes
 
-List of Malaysia Postcodes with City and State (JSON)
-
-[![Version](https://img.shields.io/npm/v/malaysia-postcodes.svg)](https://npmjs.org/package/malaysia-postcodes)
-[![Downloads/week](https://img.shields.io/npm/dw/malaysia-postcodes.svg)](https://npmjs.org/package/malaysia-postcodes)
-[![License](https://img.shields.io/npm/l/malaysia-postcodes.svg)](https://github.com/AsyrafHussin/malaysia-postcodes/blob/master/package.json)
+List of malaysian cars and models (JSON)
 
 ## Table of Contents
 
